@@ -1,16 +1,25 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**vilmero11e/vilmero11e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋 I'm [Vilmero11e](https://github.com/vilmero11e), a passionate developer exploring the world of coding,
 
-Here are some ideas to get you started:
+## Links to Connect with Me 🔗
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Discord](https://vilmero11e.github.io/discord)**: Join me on Discord for discussions, chats, and more!
+- **[Twitter](https://vilmero11e.github.io/twitter)**: Follow me on Twitter for updates and thoughts!
+- **[Reddit](https://vilmero11e.github.io/reddit)**: Check out my posts and discussions on Reddit!
+
+## About Me 🧑‍💻
+
+I'm passionate about coding and always striving to learn new things.
+
+- 🌱 I’m constantly learning and exploring new programming languages and frameworks
+- 🤔 I’m always open to new ideas and solutions to real-world problems
+
+## Technologies I Love 🚀
+
+- Python
+- JavaScript
+- HTML, CSS
+- And more!
+
+Feel free to check out my repositories, follow my work, and let's connect! ✨
